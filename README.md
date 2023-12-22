@@ -1,4 +1,4 @@
-# Contador_de_n-meros
+# Contador_de_numeros
 
 no primeiro exemplo temos uma soma de de 2 numeros padrão do python, só que o resultado do mesmo esta muito ilegivel pois contem muitos (0);
 
